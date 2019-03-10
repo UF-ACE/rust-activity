@@ -5,3 +5,5 @@ authors = ["Christopher Miller <admin@mctherealm.net>"]
 edition = "2018"
 
 [dependencies]
+clap = "2.32.0"
+ansi_term = "0.11"
